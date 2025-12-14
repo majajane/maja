@@ -5,8 +5,8 @@
 > Progress over perfection.
 
  - With basic to intermediate experience 
-  - C
-  - C++
-  - Java
-  - Python
+   - C
+   - C++
+   - Java
+   - Python
  - Open to new learning experiences and challenges
